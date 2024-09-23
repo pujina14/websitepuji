@@ -1,0 +1,43 @@
+/* Mengatur gaya dasar untuk body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Gaya untuk header */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+/* Gaya untuk bagian profil */
+.profile {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    display: inline-block;
+    max-width: 600px;
+}
+
+/* Gaya untuk gambar profil */
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+/* Gaya untuk footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
